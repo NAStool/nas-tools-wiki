@@ -2,7 +2,7 @@
 title: 开始
 description: 
 published: 1
-date: 2023-05-12T08:29:53.931Z
+date: 2023-05-12T08:30:11.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T03:00:45.176Z
@@ -19,7 +19,5 @@ Docker：
 * https://hub.docker.com/repository/docker/nastool/nas-tools
 
 TG频道：https://t.me/nastool_official
-
-Wiki：https://t.me/NAStool_wiki
 
 API: http://localhost:3000/api/v1/
