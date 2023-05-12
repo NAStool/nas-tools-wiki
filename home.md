@@ -2,7 +2,7 @@
 title: 开始
 description: 
 published: 1
-date: 2023-05-12T23:54:40.450Z
+date: 2023-05-12T23:55:43.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T03:00:45.176Z
@@ -29,7 +29,7 @@ dateCreated: 2023-05-12T03:00:45.176Z
 
 ## <font color=#1786D0>API地址</font>
 *  http://localhost:3000/api/v1/ [^1]
-[^1]:localhost为本机IP地址
+</br>
 
 ## <font color=#1786D0>请先阅读</font>
 - [用户认证 *为什么安装后显示的功能不完整？*](/名词解释#用户认证)
@@ -39,4 +39,7 @@ dateCreated: 2023-05-12T03:00:45.176Z
 {.links-list}
 
 ![nastool.png](/images/nastool.png)
+
+[^1]:localhost为本机IP地址
+
 
