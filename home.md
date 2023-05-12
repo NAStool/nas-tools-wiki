@@ -2,7 +2,7 @@
 title: 开始
 description: 
 published: 1
-date: 2023-05-12T14:33:54.628Z
+date: 2023-05-12T14:35:32.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T03:00:45.176Z
@@ -28,7 +28,7 @@ dateCreated: 2023-05-12T03:00:45.176Z
 </br>
 
 ## <font color=#1786D0>API地址</font>
-*  http://localhost:3000/api/v1/
-
+*  http://localhost:3000/api/v1/ [^1]
+[^1]:localhost为本机IP地址
 
 ![nastool.png](/images/nastool.png)
