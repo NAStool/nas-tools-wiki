@@ -2,7 +2,7 @@
 title: 开始
 description: 
 published: 1
-date: 2023-05-12T14:49:49.480Z
+date: 2023-05-12T23:50:24.300Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T03:00:45.176Z
@@ -32,3 +32,9 @@ dateCreated: 2023-05-12T03:00:45.176Z
 [^1]:localhost为本机IP地址
 
 ![nastool.png](/images/nastool.png)
+
+## <font color=#1786D0>请先阅读</font>
+- [用户认证 *为什么安装后显示的功能不完整？*](/其它/名词解释#用户认证)
+- [文件整理 *支持哪些文件整理方式，分别有什么优缺点？*](/其它/名词解释#转移方式)
+
+{.links-list}
