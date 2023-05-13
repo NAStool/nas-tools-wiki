@@ -2,7 +2,7 @@
 title: 开始
 description: 
 published: 1
-date: 2023-05-12T23:56:34.004Z
+date: 2023-05-13T02:10:54.810Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T03:00:45.176Z
@@ -31,7 +31,7 @@ dateCreated: 2023-05-12T03:00:45.176Z
 *  http://localhost:3000/api/v1/ [^1]
 </br>
 
-## <font color=#1786D0>请先阅读</font>
+## <font color=#1786D0>开始之前</font>
 - [用户认证 *为什么安装后显示的功能不完整？*](/名词解释#用户认证)
 - [文件整理 *支持哪些文件整理方式，分别有什么优缺点？*](/名词解释#转移方式)
 - [常见问题 *安装使用遇到问题请先查阅*](/常见问题)
