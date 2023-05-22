@@ -2,13 +2,19 @@
 title: 开始
 description: 
 published: 1
-date: 2023-05-19T00:06:41.802Z
+date: 2023-05-22T08:49:42.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T03:00:45.176Z
 ---
 
 # <font color=#184785>NAStool项目</font>
+</br>
+
+> 由于无法控制项目按照预期路径可持续发展，该项目已停止维护，请升级至`v3.2.3`最新版本（关闭自动更新，不影响正常使用）：
+`唯一官方docker`：https://hub.docker.com/r/nastool/nas-tools
+{.is-warning}
+
 </br>
 
 ## <font color=#1786D0>仓库地址</font>
